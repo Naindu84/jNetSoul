@@ -1,6 +1,16 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Emacs
+*~
+\#*\#
+
+# Java
 *.class
 
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.ear

@@ -1,4 +1,3 @@
-jNetSoul
-========
+# jNetSoul
 
 Java class for NetSoul client.
